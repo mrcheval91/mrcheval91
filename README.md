@@ -1,16 +1,29 @@
-## Hi there 👋
+# Mark Chevalier
 
-<!--
-**mrcheval91/mrcheval91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operator-focused contributor testing local-first developer tools, release workflows, and proof-driven software at Solcogito.
 
-Here are some ideas to get you started:
+I help review tools from the practical side: setup, installer friction, documentation clarity, command output, and whether a workflow can actually be trusted by someone who did not build it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- CLI first-run testing
+- installer and setup review
+- operator-facing documentation
+- release proof checklists
+- local-first developer tools
+- practical workflow verification
+
+## What I care about
+
+A useful tool should make these things clear:
+
+1. What does it do?
+2. What does it not do?
+3. How do I install it?
+4. How do I verify it worked?
+5. What changed?
+6. What evidence proves the result?
+
+## Current work
+
+I contribute operator notes, review feedback, setup checks, and practical validation work for Solcogito projects.
